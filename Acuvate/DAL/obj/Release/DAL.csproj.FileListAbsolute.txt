@@ -1,0 +1,5 @@
+D:\DharanendraCode\Acuvate\DAL\bin\Release\DAL.dll
+D:\DharanendraCode\Acuvate\DAL\bin\Release\DAL.pdb
+D:\DharanendraCode\Acuvate\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\DharanendraCode\Acuvate\DAL\obj\Release\DAL.dll
+D:\DharanendraCode\Acuvate\DAL\obj\Release\DAL.pdb

@@ -1,0 +1,6 @@
+D:\DharanendraCode\Acuvate\DAL\bin\Debug\DAL.dll
+D:\DharanendraCode\Acuvate\DAL\bin\Debug\DAL.pdb
+D:\DharanendraCode\Acuvate\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DharanendraCode\Acuvate\DAL\obj\Debug\DAL.dll
+D:\DharanendraCode\Acuvate\DAL\obj\Debug\DAL.pdb
+D:\DharanendraCode\Acuvate\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
